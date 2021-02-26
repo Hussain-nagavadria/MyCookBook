@@ -32,3 +32,8 @@ I didn't have lot of time since my exams are going on so i had to adjust my time
 The challenge which i faced was while writing qeury to fetch data in favReciepe, i was getting listOfFav reciepe from remote using background thread which was always called after the query executed. 
 It resulted that the list is empty since the query didnt fetched till query was submitted to resolve this is used listAdapter and passed list so that i dont need to do query.
 
+ForLogin:
+Userid=Hmemon999@gmail.com 
+password=Hussain@1204
+
+
